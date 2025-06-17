@@ -2,7 +2,7 @@
 <div align="center">
   <div style="background: linear-gradient(to right, #00c6ff, #0072ff); padding: 0.1px; border-radius: 10px; margin-bottom: 20px;">
     <div style="background: #0d1117; border-radius: 9px; padding: 20px;">
-      <h1 style="color: #00c6ff; font-size: 32px;">Reflex</h1>
+      <h1 style="color: #00c6ff; font-size: 32px; text-shadow: 0 0 10px rgba(0,198,255,0.7);">Reflex</h1>
       <h3 style="color: #7fdbff;">Discord Bot Developer | Web Automation Specialist | Web Designer</h3>
       <br>
       <h2>⌜ Coding with style, automating with power ⌟</h2>
@@ -10,9 +10,9 @@
   </div>
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## About Me
+## ✨ About Me
 
 ### I'm a passionate developer specialized in:
 - 🤖 Discord Bot Development
@@ -24,9 +24,9 @@
 
 <br>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## My Arsenal
+## 🔧 My Arsenal
 
 <div align="center">
   
@@ -39,9 +39,9 @@
   
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## Stats & Powers
+## 📊 Stats & Powers
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reflex022&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=7fdbff&text_color=FFFFFF" alt="GitHub Stats" height="165">
@@ -52,9 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflex022&theme=algolia&hide_border=true&bg_color=0D1117&layout=compact&title_color=00c6ff" alt="Top Languages">
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## Power Level
+## 👾 Power Level
 
 <div align="center">
   
@@ -63,20 +63,40 @@
   <img src="https://github.com/Reflex022/Reflex022/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## Let's Play Tetris!
+## 🎮 Let's Play Tetris!
 
 <div align="center">
-  <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CDrop&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+write+anything+in+the+description.">
-    <img src="https://github.com/Reflex022/Reflex022/blob/output/tetris.svg" alt="Play Tetris">
-  </a>
-  <p style="color: #00c6ff;">Click on the game to make a move! The game is played via GitHub Issues.</p>
+  <div style="background: linear-gradient(to bottom, #00c6ff, #0072ff); padding: 5px; border-radius: 15px; margin: 20px 0; box-shadow: 0 0 20px rgba(0,198,255,0.8);">
+    <div style="background: #0d1117; border-radius: 10px; padding: 20px; text-align: center;">
+      <h3 style="color: #00c6ff; margin-bottom: 15px; text-shadow: 0 0 8px rgba(0,198,255,0.7);">⚡ TETRIS CHALLENGE ⚡</h3>
+      <p style="color: #7fdbff; margin-bottom: 20px;">Can you beat my high score? Click to play!</p>
+      <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CNewGame&body=Click+Submit+to+start+a+new+Tetris+game%21">
+        <img src="https://github.com/Reflex022/Reflex022/blob/output/tetris.svg" alt="Play Tetris" style="max-width: 100%; border-radius: 10px; border: 2px solid #00c6ff; box-shadow: 0 0 15px rgba(0,198,255,0.6);">
+      </a>
+      <p style="color: #00c6ff; margin-top: 15px; font-style: italic;">Game controls: Use the buttons to move left/right, rotate, and drop pieces!</p>
+      <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CLeft&body=Move+Left" style="text-decoration: none;">
+          <span style="display: inline-block; padding: 5px 15px; background: #00c6ff; color: white; border-radius: 5px; font-weight: bold;">←</span>
+        </a>
+        <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CRotate&body=Rotate" style="text-decoration: none;">
+          <span style="display: inline-block; padding: 5px 15px; background: #00c6ff; color: white; border-radius: 5px; font-weight: bold;">↻</span>
+        </a>
+        <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CRight&body=Move+Right" style="text-decoration: none;">
+          <span style="display: inline-block; padding: 5px 15px; background: #00c6ff; color: white; border-radius: 5px; font-weight: bold;">→</span>
+        </a>
+        <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CDrop&body=Drop" style="text-decoration: none;">
+          <span style="display: inline-block; padding: 5px 15px; background: #00c6ff; color: white; border-radius: 5px; font-weight: bold;">↓</span>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
-## Connect With Me
+## 📱 Connect With Me
 
 <div align="center">
   <a href="mailto:waaleed288@gmail.com" target="_blank">
@@ -87,7 +107,7 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting+my+profile!;Hope+you+have+a+great+day!;Feel+free+to+check+out+my+projects!;Let's+connect+and+collaborate!" alt="Thank You Message" />

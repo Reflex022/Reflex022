@@ -79,9 +79,6 @@
     <div style="font-size: 18px; color: #7fdbff; margin-bottom: 10px; text-shadow: 0 0 5px rgba(0,198,255,0.5);">Visitor Counter</div>
   </div>
   
-  <img src="https://github.com/Reflex022/Reflex022/blob/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
-</div>
-
 <div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
 
 <div style="position: relative;">

@@ -77,6 +77,7 @@
 <div align="center" style="margin: 30px 0; background: rgba(0,198,255,0.05); padding: 25px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
   <div style="background: linear-gradient(to right, #00c6ff22, #00c6ff55, #00c6ff22); padding: 15px; border-radius: 10px; margin-bottom: 20px;">
     <div style="font-size: 18px; color: #7fdbff; margin-bottom: 10px; text-shadow: 0 0 5px rgba(0,198,255,0.5);">Visitor Counter</div>
+    <img src="https://profile-counter.glitch.me/Reflex022/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   </div>
   
 <div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>

@@ -1,21 +1,18 @@
-<!-- WELCOME TO WALEED'S PROFILE -->
+<!-- WALEED'S PROFILE -->
 <div align="center">
-  <img src="https://i.imgur.com/BfcWEDw.png" alt="Anime Banner" width="100%">
-  
-  <div style="background: linear-gradient(to right, #ff6b6b, #6b66ff); padding: 0.1px; border-radius: 10px; margin-bottom: 20px;">
+  <div style="background: linear-gradient(to right, #00c6ff, #0072ff); padding: 0.1px; border-radius: 10px; margin-bottom: 20px;">
     <div style="background: #0d1117; border-radius: 9px; padding: 20px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&height=50&lines=Waleed+aka+Reflex;Discord+Bot+Developer;Web+Automation+Specialist;Web+Designer" alt="Typing SVG" />
+      <h1 style="color: #00c6ff; font-size: 32px;">Reflex</h1>
+      <h3 style="color: #7fdbff;">Discord Bot Developer | Web Automation Specialist | Web Designer</h3>
       <br>
       <h2>⌜ Coding with style, automating with power ⌟</h2>
     </div>
   </div>
 </div>
 
-<img src="https://i.imgur.com/DFHcOd6.gif" width="100%">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-## <img src="https://i.imgur.com/TlmfKK1.gif" width="30px"> About Me
-
-<img align="right" height="270px" width="450px" alt="Anime Developer GIF" src="https://i.imgur.com/MXzmjoJ.gif" />
+## About Me
 
 ### I'm a passionate developer specialized in:
 - 🤖 Discord Bot Development
@@ -27,9 +24,9 @@
 
 <br>
 
-<img src="https://i.imgur.com/HffGSVY.gif" width="100%">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-## <img src="https://i.imgur.com/kF2mjxw.gif" width="30px"> My Arsenal
+## My Arsenal
 
 <div align="center">
   
@@ -42,53 +39,56 @@
   
 </div>
 
-<img src="https://i.imgur.com/5oJ7TJ4.gif" width="100%">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-## <img src="https://i.imgur.com/bS5ZKKA.gif" width="30px"> Stats & Powers
+## Stats & Powers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=F8D866&currStreakLabel=A177FE" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reflex022&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=7fdbff&text_color=FFFFFF" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reflex022&theme=algolia&hide_border=true&background=0D1117&ring=00c6ff&fire=7fdbff&currStreakLabel=00c6ff" alt="GitHub Streak" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&title_color=A177FE" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflex022&theme=algolia&hide_border=true&bg_color=0D1117&layout=compact&title_color=00c6ff" alt="Top Languages">
 </div>
 
-<img src="https://i.imgur.com/EDU1YRm.gif" width="100%">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-<img src="https://i.imgur.com/LwTQOUh.gif" width="100%">
-
-## <img src="https://i.imgur.com/gkR3JqK.gif" width="30px"> Power Level
+## Power Level
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Reflex022/count.svg)
   
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://github.com/Reflex022/Reflex022/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<img src="https://i.imgur.com/sTSmbQH.gif" width="100%">
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-## <img src="https://i.imgur.com/XSgrUyU.gif" width="30px"> Connect With Me
+## Let's Play Tetris!
 
 <div align="center">
+  <a href="https://github.com/Reflex022/Reflex022/issues/new?title=Tetris%7CDrop&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+write+anything+in+the+description.">
+    <img src="https://github.com/Reflex022/Reflex022/blob/output/tetris.svg" alt="Play Tetris">
+  </a>
+  <p style="color: #00c6ff;">Click on the game to make a move! The game is played via GitHub Issues.</p>
+</div>
 
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
+
+## Connect With Me
+
+<div align="center">
   <a href="mailto:waaleed288@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.com/users/1156602975679156274" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-868o-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Reflex">
+    <img src="https://img.shields.io/badge/Discord-868o-00c6ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Reflex">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/5cQDMIH.gif" width="100%" height="120px">
-  
-  <!-- Background Music Embed (Optional) -->
-  <!-- <a href="https://open.spotify.com/track/your-track-id">🎵 Listen to my coding playlist</a> -->
-</div>
+<hr style="border: 1px solid #00c6ff; margin: 30px 0;">
 
-<!-- Replace 'your-username' with your actual GitHub username in all instances -->
-<!-- Replace contact links with your actual contact information -->
-<!-- Replace project links with your actual project repositories --> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting+my+profile!;Hope+you+have+a+great+day!;Feel+free+to+check+out+my+projects!;Let's+connect+and+collaborate!" alt="Thank You Message" />
+</div> 

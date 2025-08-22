@@ -1,107 +1,149 @@
-<!-- REFLEX PROFILE -->
+# ⚡ REFLEX 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer;Web+Automation+Specialist;Web+Designer;Full-Stack+Developer)](https://git.io/typing-svg)
+
 <div align="center">
-  <div style="background: linear-gradient(45deg, #00c6ff, #0072ff, #00c6ff); padding: 3px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 0 30px rgba(0,198,255,0.8);">
-    <div style="background: #0d1117; border-radius: 12px; padding: 30px;">
-      <h1 style="color: #00c6ff; font-size: 42px; text-shadow: 0 0 15px rgba(0,198,255,0.9); margin-bottom: 10px;">⚡ REFLEX ⚡</h1>
-      <div style="border-top: 2px solid #00c6ff; width: 150px; margin: 0 auto; box-shadow: 0 0 10px #00c6ff;"></div>
-      <h3 style="color: #7fdbff; margin-top: 20px; letter-spacing: 2px; text-shadow: 0 0 8px rgba(127,219,255,0.6);">DISCORD BOT DEVELOPER | WEB AUTOMATION SPECIALIST | WEB DESIGNER</h3>
-      <br>
-      <h2 style="color: #ffffff; text-shadow: 0 0 10px #00c6ff;">⌜ Coding with style, automating with power ⌟</h2>
-    </div>
-  </div>
+
+### 💫 **"Coding with style, automating with power"**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Reflex022&color=00c6ff&style=flat-square&label=Profile+Views)](https://github.com/Reflex022)
+
 </div>
 
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
+---
 
-<div style="position: relative;">
-  <h2 style="color: #00c6ff; text-shadow: 0 0 10px rgba(0,198,255,0.7); font-size: 28px; display: inline-block; padding-right: 10px;">✨ ABOUT ME</h2>
-  <div style="position: absolute; top: 50%; right: 0; width: 70%; height: 2px; background: linear-gradient(to right, #00c6ff, transparent); box-shadow: 0 0 10px rgba(0,198,255,0.5);"></div>
+## 🌟 About Me
+
+> **Passionate developer** specializing in creating innovative solutions through automation and intuitive design.
+
+🤖 **Discord Bot Development** - Creating powerful, scalable bots with advanced features  
+🌐 **Web Automation** - Streamlining workflows with intelligent automation solutions  
+🎨 **Web Design** - Crafting beautiful, responsive user experiences  
+💻 **Full-Stack Development** - Building complete web applications from concept to deployment  
+
+🎯 **Current Focus:** Building automation tools that make developers' lives easier  
+📚 **Learning:** Advanced AI integration and cloud architecture  
+🎮 **Fun Fact:** When not coding, I'm exploring new tech or watching anime for creative inspiration
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### **Backend & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
-<div style="background: rgba(0,198,255,0.05); padding: 20px; border-radius: 10px; border-left: 3px solid #00c6ff; margin: 20px 0; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-  <h3 style="color: #7fdbff; margin-bottom: 15px; text-shadow: 0 0 5px rgba(127,219,255,0.5);">I'm a passionate developer specialized in:</h3>
-  <ul style="list-style-type: none; padding-left: 10px;">
-    <li style="margin-bottom: 12px; color: #ffffff;">
-      <span style="color: #00c6ff; font-weight: bold; margin-right: 10px;">🤖</span> Discord Bot Development
-    </li>
-    <li style="margin-bottom: 12px; color: #ffffff;">
-      <span style="color: #00c6ff; font-weight: bold; margin-right: 10px;">🌐</span> Web Automation Solutions
-    </li>
-    <li style="margin-bottom: 12px; color: #ffffff;">
-      <span style="color: #00c6ff; font-weight: bold; margin-right: 10px;">🎨</span> Web Design
-    </li>
-    <li style="margin-bottom: 12px; color: #ffffff;">
-      <span style="color: #00c6ff; font-weight: bold; margin-right: 10px;">💻</span> Full-Stack Projects
-    </li>
-  </ul>
-  <p style="color: #d0d0d0; font-style: italic; margin-top: 15px; border-top: 1px solid rgba(0,198,255,0.3); padding-top: 15px;">When I'm not crafting code, you might find me exploring new technologies or watching anime for inspiration.</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reflex022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff" alt="Reflex022's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflex022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff&text_color=ffffff" alt="Most Used Languages"/>
+
 </div>
 
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
+<div align="center">
 
-<div style="position: relative;">
-  <h2 style="color: #00c6ff; text-shadow: 0 0 10px rgba(0,198,255,0.7); font-size: 28px; display: inline-block; padding-right: 10px;">🔧 MY ARSENAL</h2>
-  <div style="position: absolute; top: 50%; right: 0; width: 70%; height: 2px; background: linear-gradient(to right, #00c6ff, transparent); box-shadow: 0 0 10px rgba(0,198,255,0.5);"></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reflex022&theme=tokyonight&hide_border=true&background=0D1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff)](https://git.io/streak-stats)
+
 </div>
 
-<div align="center" style="margin: 30px 0; background: rgba(0,198,255,0.05); padding: 25px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px; transform: scale(1.1);">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; transform: scale(1.1);">
-  <img src="https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" style="margin: 5px; transform: scale(1.1);">
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" style="margin: 5px; transform: scale(1.1);">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px; transform: scale(1.1);">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px; transform: scale(1.1);">
+---
+
+## 🚀 Featured Projects
+
+### 🤖 **Discord Bot Suite**
+- **Advanced Moderation Bot** - Comprehensive server management with AI-powered features
+- **Music & Entertainment Bot** - High-quality audio streaming with interactive commands
+- **Utility Bot Collection** - Productivity tools for Discord communities
+
+### 🌐 **Web Automation Tools**
+- **E-commerce Scraper** - Automated price monitoring and data collection
+- **Social Media Manager** - Bulk posting and engagement automation
+- **Form Automation Suite** - Streamlined data entry and processing
+
+### 🎨 **Web Applications**
+- **Portfolio Dashboard** - Interactive showcase platform
+- **Task Management System** - Collaborative project tracking
+- **Real-time Analytics Platform** - Data visualization and reporting
+
+*📌 Check out my repositories for detailed code examples and documentation*
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reflex022&theme=tokyo-night&bg_color=0D1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true)
+
 </div>
 
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
+---
 
-<div style="position: relative;">
-  <h2 style="color: #00c6ff; text-shadow: 0 0 10px rgba(0,198,255,0.7); font-size: 28px; display: inline-block; padding-right: 10px;">📊 STATS & POWERS</h2>
-  <div style="position: absolute; top: 50%; right: 0; width: 70%; height: 2px; background: linear-gradient(to right, #00c6ff, transparent); box-shadow: 0 0 10px rgba(0,198,255,0.5);"></div>
+## 💼 Services & Collaboration
+
+### 🎯 **What I Offer:**
+- Custom Discord Bot Development
+- Web Automation Solutions
+- Full-Stack Web Applications
+- UI/UX Design & Implementation
+- Technical Consulting & Code Reviews
+
+### 🤝 **Let's Collaborate:**
+- Open Source Contributions
+- Freelance Projects
+- Technical Partnerships
+- Knowledge Sharing & Mentoring
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waaleed288@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1156602975679156274)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reflex022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reflex022)
+
 </div>
 
-<div align="center" style="margin: 30px 0; background: rgba(0,198,255,0.05); padding: 25px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reflex022&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=7fdbff&text_color=FFFFFF" alt="GitHub Stats" height="165" style="margin-bottom: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reflex022&theme=algolia&hide_border=true&background=0D1117&ring=00c6ff&fire=7fdbff&currStreakLabel=00c6ff" alt="GitHub Streak" height="165" style="margin-bottom: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflex022&theme=algolia&hide_border=true&bg_color=0D1117&layout=compact&title_color=00c6ff" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
-</div>
+<div align="center">
 
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
+### 🌟 **"Building the future, one line of code at a time"** 🌟
 
-<div style="position: relative;">
-  <h2 style="color: #00c6ff; text-shadow: 0 0 10px rgba(0,198,255,0.7); font-size: 28px; display: inline-block; padding-right: 10px;">👾 POWER LEVEL</h2>
-  <div style="position: absolute; top: 50%; right: 0; width: 70%; height: 2px; background: linear-gradient(to right, #00c6ff, transparent); box-shadow: 0 0 10px rgba(0,198,255,0.5);"></div>
-</div>
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/reflex022)
 
-<div align="center" style="margin: 30px 0; background: rgba(0,198,255,0.05); padding: 25px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-  <div style="background: linear-gradient(to right, #00c6ff22, #00c6ff55, #00c6ff22); padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-    <div style="font-size: 18px; color: #7fdbff; margin-bottom: 10px; text-shadow: 0 0 5px rgba(0,198,255,0.5);">Visitor Counter</div>
-    <img src="https://profile-counter.glitch.me/Reflex022/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
-  </div>
-  
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
+**⭐ If you find my work helpful, consider giving my repositories a star!**
 
-<div style="position: relative;">
-  <h2 style="color: #00c6ff; text-shadow: 0 0 10px rgba(0,198,255,0.7); font-size: 28px; display: inline-block; padding-right: 10px;">📱 CONNECT WITH ME</h2>
-  <div style="position: absolute; top: 50%; right: 0; width: 70%; height: 2px; background: linear-gradient(to right, #00c6ff, transparent); box-shadow: 0 0 10px rgba(0,198,255,0.5);"></div>
-</div>
+*Thank you for visiting! Feel free to explore my projects and reach out for collaborations.* 🚀
 
-<div align="center" style="margin: 30px 0; background: rgba(0,198,255,0.05); padding: 25px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-  <a href="mailto:waaleed288@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transform: scale(1.2); transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
-  </a>
-  <a href="https://discord.com/users/1156602975679156274" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/Discord-868o-00c6ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Reflex" style="transform: scale(1.2); transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0,198,255,0.5);">
-  </a>
-</div>
-
-<div style="background: linear-gradient(to right, rgba(0,198,255,0.1), rgba(0,198,255,0.3), rgba(0,198,255,0.1)); height: 3px; margin: 40px 0; border-radius: 50%; box-shadow: 0 0 15px rgba(0,198,255,0.7);"></div>
-
-<div align="center" style="margin: 30px 0;">
-  <div style="background: linear-gradient(45deg, #00c6ff33, #0072ff33, #00c6ff33); padding: 3px; border-radius: 15px; box-shadow: 0 0 30px rgba(0,198,255,0.4);">
-    <div style="background: #0d1117; border-radius: 12px; padding: 20px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting+my+profile!;Hope+you+have+a+great+day!;Feel+free+to+check+out+my+projects!;Let's+connect+and+collaborate!" alt="Thank You Message" style="max-width: 100%;" />
-    </div>
-  </div>
 </div> 

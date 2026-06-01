@@ -18,7 +18,6 @@
 
 - 🤖 I build **Discord bots** with real features
 - 🌐 I develop **web apps** and websites
-- 🔧 Currently exploring more **web dev**
 
 <br clear="right"/>
 
@@ -35,9 +34,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -55,20 +52,6 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reflex022&theme=tokyonight&hide_border=true&background=0D1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🚀 Projects
-
-<div align="center">
-
-| 🤖 Discord Bots | 🌐 Web Apps |
-|:---|:---|
-| Moderation bot with auto-mod | Portfolio websites for clients |
-| Music bot with smooth playback | Task manager with real-time updates |
-| Utility bot for server management | Price tracker for online shopping |
 
 </div>
 
